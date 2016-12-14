@@ -24,5 +24,6 @@
     "phpunit/phpunit-selenium": ">=1.2",
     "theseer/phpdox": "*",
     "phploc/phploc": "~2.0"
-  }
+  },
+  "bin": ["bin/weathermap"]
 }
