@@ -25,5 +25,5 @@
     "theseer/phpdox": "*",
     "phploc/phploc": "~2.0"
   },
-  "bin": ["bin/weathermap"]
+  "bin": ["weathermap"]
 }
